@@ -1,0 +1,54 @@
+[
+    {
+        "name" : "iphone",
+        "price" : 154,
+        "featured" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iphone10",
+        "price" : 1154,
+        "featured" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "watch",
+        "price" : 204,
+        "company" : "apple"
+    },
+    {
+        "name" : "watch10",
+        "price" : 304,
+        "company" : "apple"
+    },
+    {
+        "name" : "iphone13",
+        "price" : 1524,
+        "featured" : false,
+        "company" : "apple"
+    },
+    {
+        "name" : "iphone16",
+        "price" : 2154,
+        "featured" : false,
+        "company" : "apple"
+    },
+    {
+        "name" : "samsungIP",
+        "price" : 2154,
+        "featured" : false,
+        "company" : "samsung"
+    },
+    {
+        "name" : "dell41",
+        "price" : 2154,
+        "featured" : false,
+        "company" : "dell"
+    },
+    {
+        "name" : "MI41X",
+        "price" : 2154,
+        "featured" : false,
+        "company" : "mi"
+    }
+]
